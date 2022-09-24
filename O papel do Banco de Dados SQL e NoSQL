@@ -1,0 +1,25 @@
+##Desafio
+
+Neste desafio, você terá a missão de compreender o papel dos Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL) no contexto de um Engenheiro de Dados. Para isso, anote todos os conceitos, definições e insights que julgar relevantes em um novo repositório Git, aumentando assim seu portfolio de conhecimentos.
+Super Dica: Organize tudo em seu README.md, é uma alternativa bem rápida e efetiva, pois, o GitHub provê uma interface bem simples e intuitiva para isso. Além de ampliar seu portifólio de projetos no GitHub!
+
+Pré-requisitos:
+
+Conhecimento Avançados(SQL, NoSQL);
+Computador com SO de sua preferência(Windows, Linux, Mac OS);
+
+Banco de dados é uma coleção organizada de informações, dados que são armazenados em um sistema de computação.
+Tipos de Banco de dados: relacionais, orientados a objetos, BDD, data warehouses, NoSQL, etc.
+Ou seja, o banco de dados é o agrupamento de dados sobre um mesmo assunto, controlado por um Sistema de Gerenciamento de Banco de Dados (SGBD).
+O SGBD(Data Base Management System) é um conjunto de software responsável pelo gerenciamento de Banco de Dados.
+Gerencia as basas de dados utilizados por aplicações clientes e remove esta responsabilidade do mesmo.
+O SGBD é respinsável por controlar, organizar e proteger as informações de uma aplicação.
+Há dois tipos de SGBD:
+Relacionais modela os dados em formato de tabela, que podem se relacionar entre si. As tabelas passuem diversos tipos de atributos e também vários dados.
+Não relacionais NoSQL (Not Only SQL) é o termo utilizado para BD não relacionais de alto desempenho, geralmente não utiliza a SQL como linguagem de consulta. 
+Utilizam diversos modelos de dados incluindo doc, gráficos, chave-valor e colunas.
+SQL Serve-foi criado pela Microsoft, a linguagem usada nesta ferramenta é a T-SQL, oferece recursos avançados e diferenciados para facilita a atualização de dadose armazenamento das informações de forma segura.
+O SQL Serve- atua com sistema integrados de criptografia, permitindo que a visualização ou alteração da informações sejam feitas apenas por pessoas responsáveis, o que garante ainda mais segurança e traquilidade para o usuário e empresários.
+NoSQL-é um sistema de banco de dados não relacionais. Esse termo é utilizado por pessoas que produzem conteúdos por dispositivos, redes sociaise outro tips tipos de funcionaliddes web, que exigem a gestão de dados em diferentes formatos.
+O uso deste permitirá maior escabilidade e maior economia no dia a dia, pois, ao contrário de outros não exige um hardware de lta potência.
+A manutenção é mais simples e prática, o que permite redução de gastos e uma equipe também reduzida, por esses motivos é uma alternativa de grande interesse empresarial.
